@@ -44,3 +44,5 @@ int main (){
 	}
 	printf("O seu desejo e: %s", desejo);
 }
+
+/* Fgets utilizado com sucesso*/
